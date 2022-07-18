@@ -1,4 +1,4 @@
-<img src=header.jpg, alt="Repo Header"/><br/>
+<img src="header.jpg", alt="Repo Header"/><br/>
 
 # Classifying Credit Card Users
 
