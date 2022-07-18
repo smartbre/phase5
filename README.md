@@ -1,3 +1,10 @@
+<img src=header.jpg, alt="Repo Header"/><br/>
+
+# Classifying Credit Card Users
+
+![GitHub last commit](https://img.shields.io/github/last-commit/smartbre/phase5)<br/>
+
+
 ├── README.md <-- Main README file explaining the project's business case,
 │                                methodology, and findings
 │
